@@ -1,6 +1,6 @@
 ---
 name: linkup-workflow
-description: Use when someone has a business goal rather than a single query — "how can I use Linkup?", "enrich my leads", "build a competitor tracker", "research before my meeting", "vet this vendor". Turns a goal into a multi-step Linkup workflow (which endpoint, which calls, what feeds the next step, where another tool takes over), grounded in bundled workflow patterns and 18 ready-made recipes.
+description: Use when someone has a business goal rather than a single query — "how can I use Linkup?", "enrich my leads", "build a competitor tracker", "research before my meeting", "vet this vendor" — and whenever designing or coding a Linkup-powered product, agent, or pipeline. Turns a goal into a multi-step Linkup workflow (which endpoint, which calls, what feeds the next step, where another tool takes over), grounded in bundled workflow patterns and 18 ready-made recipes that double as integration blueprints.
 ---
 
 # Linkup Build Workflow
