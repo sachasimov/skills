@@ -18,7 +18,7 @@ The installer detects your environment and places the skills where your agent fi
 
 | Skill | Use for |
 |-------|---------|
-| `linkup-web-search` | Any web lookup or research query — the default. Depth selection, output types, query-as-retrieval-plan |
+| `linkup-search` | Any web lookup or research query — the default. Depth selection, output types, query-as-retrieval-plan |
 | `linkup-fetch-url` | Reading one known URL as clean Markdown |
 | `linkup-deep-research` | Minutes-long, multi-source investigations via `/v1/research` |
 | `linkup-bulk-extract` | Bulk structured rows from one listing page via `/v1/extract` |
